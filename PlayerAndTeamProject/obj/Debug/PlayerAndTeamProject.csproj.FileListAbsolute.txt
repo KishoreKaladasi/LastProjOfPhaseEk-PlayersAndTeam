@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\PlayerAndTeamProject\PlayerAndTeamProject\bin\Debug\PlayerAndTeamProject.exe.config
+C:\Users\ASUS\source\repos\PlayerAndTeamProject\PlayerAndTeamProject\bin\Debug\PlayerAndTeamProject.exe
+C:\Users\ASUS\source\repos\PlayerAndTeamProject\PlayerAndTeamProject\bin\Debug\PlayerAndTeamProject.pdb
+C:\Users\ASUS\source\repos\PlayerAndTeamProject\PlayerAndTeamProject\obj\Debug\PlayerAndTeamProject.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\PlayerAndTeamProject\PlayerAndTeamProject\obj\Debug\PlayerAndTeamProject.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PlayerAndTeamProject\PlayerAndTeamProject\obj\Debug\PlayerAndTeamProject.exe
+C:\Users\ASUS\source\repos\PlayerAndTeamProject\PlayerAndTeamProject\obj\Debug\PlayerAndTeamProject.pdb
